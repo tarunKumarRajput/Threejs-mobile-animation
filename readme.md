@@ -1,6 +1,4 @@
-##Learning about Three js
-
-## Setup
+# Learning about Three js
 
 # Install dependencies (only the first time)
 npm install
